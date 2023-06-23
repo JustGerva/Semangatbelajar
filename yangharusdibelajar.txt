@@ -1,6 +1,8 @@
 yang mau di belajar
 
 -PHP
+*membuat wesite sederhana
+*manmbahcss
 -Javascript
 -Html
 -css
