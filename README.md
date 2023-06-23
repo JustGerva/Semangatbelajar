@@ -1,0 +1,2 @@
+# Semangatbelajar
+Repository semangat Belajar
