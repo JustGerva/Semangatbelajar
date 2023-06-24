@@ -1,5 +1,5 @@
 yang mau di belajar
-
+-struktur data
 -PHP
 *membuat wesite sederhana
 *manmbahcss
