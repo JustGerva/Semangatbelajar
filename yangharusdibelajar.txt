@@ -8,3 +8,4 @@ yang mau di belajar
 *react
 -Html
 -css
+-pyton
