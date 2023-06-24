@@ -1,8 +1,11 @@
 yang mau di belajar
 -struktur data
+ *percabangan
 -PHP
 *membuat wesite sederhana
 *manmbahcss
+*laravel
 -Javascript
 -Html
 -css
+-pyton
