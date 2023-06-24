@@ -5,6 +5,7 @@ yang mau di belajar
 *membuat wesite sederhana
 *manmbahcss
 *laravel
+*react
 -Javascript
 -Html
 -css
