@@ -9,3 +9,6 @@ yang mau di belajar
 -Html
 -css
 -pyton
+-data analisis
+-ui/ux
+-node
